@@ -2,6 +2,7 @@
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/edgexfoundry/edgex-go)](https://goreportcard.com/report/github.com/edgexfoundry/edgex-go)
 [![license](https://img.shields.io/badge/license-Apache%20v2.0-blue.svg)](LICENSE)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjamesrgregg%2Fedgex-go.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjamesrgregg%2Fedgex-go?ref=badge_shield)
 
 EdgeX Foundry is a vendor-neutral open source project hosted by The Linux Foundation building a common open framework for IoT edge computing.  At the heart of the project is an interoperability framework hosted within a full hardware- and OS-agnostic reference software platform to enable an ecosystem of plug-and-play components that unifies the marketplace and accelerates the deployment of IoT solutions.  This repository contains the Go implementation of EdgeX Foundry microservices.  It also includes files for building the services, containerizing the services, and initializing (bootstrapping) the services.
 
@@ -152,3 +153,6 @@ make docker run_docker
 # License
 
 [Apache-2.0](LICENSE)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjamesrgregg%2Fedgex-go.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjamesrgregg%2Fedgex-go?ref=badge_large)
